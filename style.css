@@ -1,3 +1,36 @@
-body {
+.alas {
+    /* align-items: center;
+    justify-content: center; */
+    margin-top: 10%;
+    margin-left: 25%;
+    padding-right: 10px;
+    width: 50%;
+    display: flex;
     background-color: violet;
+    border-style: double;
+}
+
+.gambar {
+padding-top: 10px;
+padding-left: 10px;
+padding-bottom: 10px;
+padding-right: 10px;
+}
+
+.gambar img{
+border-radius: 10px;
+border-style: solid;
+}
+
+.data {
+    background-image: url("img/bg.jpg");
+    background-size: cover;
+    width: 370px;
+    margin-top: 13px;
+    margin-bottom: 13px;
+    border-style: solid;
+    border-color: black;
+    padding-left: 5px;
+    color: white;
+    border-radius: 5px;
 }
